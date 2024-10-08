@@ -33,7 +33,7 @@ public class Main {
 //            System.out.println( "contar Numeros Pares:" + l1.sumarDigitoPar());
 
 //            System.out.println( "Frecuencia 1:" + l1.frecuenciaNumero(1));
-            System.out.println( "Verificar Iguales:" + l1.verificarTodoIgual());
+//            System.out.println( "Verificar Iguales:" + l1.verificarTodoIgual());
             
     }
     

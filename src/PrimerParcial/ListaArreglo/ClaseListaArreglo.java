@@ -164,6 +164,7 @@ public class ClaseListaArreglo {
         return sumarDigitoParRecursivo(this.cant);
     }
     
+    
     private int sumarDigitoParRecursivo(int cantAux ){
         if(cantAux == 1){
             if((this.vector[cantAux-1] %2) == 0){
@@ -181,8 +182,6 @@ public class ClaseListaArreglo {
             }
         }
     }
-    
-    
     
     
     
